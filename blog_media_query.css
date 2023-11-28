@@ -1,0 +1,135 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+    .about_box {
+        margin-bottom: 2rem !important;
+        margin: auto;
+    }
+
+    #home {
+        margin: auto !important;
+        /* text-align: center; */
+    }
+
+    .service_box {
+        margin-bottom: 2rem;
+    }
+
+    .blog_box {
+        margin-bottom: 2rem;
+    }
+
+    .featured_imgbox {
+        height: 90px;
+        /* width: 220px; */
+        margin: 2rem 0;
+    }
+
+    .course_content {
+
+        margin-bottom: 2rem;
+    }
+
+    .client_detail {
+        /* text-align: center; */
+        margin: 1.5rem 0;
+    }
+
+    .footer_form input {
+
+        width: unset !important;
+
+        margin: 0 0 2rem 0;
+    }
+
+    .contact_detail {
+        text-align: unset !important;
+    }
+
+    #contact {
+        height: unset !important;
+    }
+
+    .contact_link {
+        text-align: unset !important;
+    }
+
+    .contact_detail h5 {
+        padding: 2rem 0 0 0 !important;
+    }
+
+    .start {
+        position: unset !important;
+        margin: 2rem 0 0 0 !important;
+    }
+    .points {
+
+        background: transparent !important;
+        color: transparent !important;
+    }
+
+    .line {
+        background-color: transparent !important;
+    }
+
+    .step_right {
+        width: unset !important;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px) {
+    .about_box {
+        margin-bottom: 2rem !important;
+    }
+    .service_box {
+        margin-bottom: 2rem !important;
+    }
+
+    .featured_imgbox {
+        height: 90px;
+        /* width: 220px; */
+        margin: 2rem 0;
+    }
+
+    .course_content {
+
+        margin-bottom: 2rem;
+    }
+
+    .client_detail {
+        /* text-align: center; */
+        margin: 1.5rem 0;
+    }
+
+    .contact_detail {
+        text-align: unset !important;
+    }
+
+    #contact {
+        height: unset !important;
+    }
+
+    .contact_link {
+        text-align: unset !important;
+    }
+
+    .contact_detail h5 {
+        padding: 2rem 0 0 0 !important;
+    }
+
+    .start {
+        position: unset !important;
+        margin: 2rem 0 0 0 !important;
+        margin: auto !important;
+    }
+    .points {
+        background: transparent !important;
+        color: transparent !important;
+    }
+
+    .line {
+        background-color: transparent !important;
+    }
+    .step_right {
+        /* height: 130px; */
+        width: unset !important;
+    }
+}
